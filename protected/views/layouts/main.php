@@ -24,15 +24,8 @@
 	<link href="<?php echo Yii::app()->request->baseUrl; ?>/assets/css/main-ie-part2.css" rel="stylesheet" type="text/css"/>
 	<![endif]-->
 
-	<!-- CSS for demo style switcher. you can remove this -->
-	<link href="demo-style-switcher/assets/css/style-switcher.css" rel="stylesheet" type="text/css">
-
 	<!-- Fav and touch icons -->
-	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/kingadmin-favicon144x144.png">
-	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/kingadmin-favicon114x114.png">
-	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/kingadmin-favicon72x72.png">
-	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="assets/ico/kingadmin-favicon57x57.png">
-	<link rel="shortcut icon" href="<?php echo Yii::app()->request->baseUrl; ?>assets/ico/favicon.png">
+	<link rel="shortcut icon" href="<?php echo Yii::app()->request->baseUrl; ?>/assets/ico/favicon.png">
 </head>
 
 <body class="dashboard">
@@ -44,7 +37,7 @@
 <div class="row">
 <!-- logo -->
 <div class="col-md-2 logo">
-	<a href="index.html"><img src="<?php echo Yii::app()->request->baseUrl; ?>/assets/img/kingadmin-logo-white.png" alt="KingAdmin - Admin Dashboard" /></a>
+	<a href=""><img src="<?php echo Yii::app()->request->baseUrl; ?>/assets/img/logo-white.png" alt="Counties Statistics" /></a>
 	<h1 class="sr-only">County Statistics Application</h1>
 </div>
 <!-- end logo -->
