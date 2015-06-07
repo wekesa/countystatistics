@@ -1,0 +1,1063 @@
+2015/06/08 00:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/kingadmin-logo-white.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user2.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user1.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user3.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user-avatar.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user5.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user4.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 00:55:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 00:55:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 00:55:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 00:55:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.ttf?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.html".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('index.html')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('index.html')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.html')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/index.html
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/kingadmin-logo-white.png
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user1.png
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user2.png
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user3.png
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user4.png
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user5.png
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user-avatar.png
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 00:55:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 01:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user3.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user2.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user1.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user4.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user-avatar.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user5.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:03:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 01:03:57 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user1.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user2.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user3.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user-avatar.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user5.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user4.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 01:05:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 01:13:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:13:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user-avatar.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:13:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 01:13:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 01:13:14 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:07:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:07:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/img...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/img/user-avatar.png
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:07:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:07:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:07:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 02:07:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:08:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:08:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:08:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:08:15 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:11:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:11:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:11:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:11:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:11:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:11:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:11:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/aud...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/audio/bell-ringing.mp3
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:12:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:12:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:12:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:12:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:12:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:12:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:12:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/aud...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/audio/bell-ringing.mp3
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:17:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "widgets.html".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('widgets.html')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('widgets.html')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/widgets.ht...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/widgets.html
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:17:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/widgets.html
+---
+2015/06/08 02:17:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/widgets.html
+---
+2015/06/08 02:17:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:17:05 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:17:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/aud...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/audio/bell-ringing.mp3
+HTTP_REFERER=http://localhost/countystatistics/site/widgets.html
+---
+2015/06/08 02:17:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:17:07 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:23:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:23:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:23:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:23:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:23:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "assets".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('assets')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('assets')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/assets/aud...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/assets/audio/bell-ringing.mp3
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:23:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:23:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:30:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:30:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:30:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:30:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:31:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:31:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:31:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:31:38 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:32:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "index.html".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('index.html')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('index.html')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/index.html')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/index.html
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:32:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 02:32:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index.html
+---
+2015/06/08 02:32:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:32:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:32:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "demo-style-switcher".' in /var/www/countystatistics/framework/web/CController.php:483
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CController.php(270): CController->missingAction('demo-style-swit...')
+#1 /var/www/countystatistics/framework/web/CWebApplication.php(282): CController->run('demo-style-swit...')
+#2 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('site/demo-style...')
+#3 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#4 /var/www/countystatistics/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/site/demo-style-switcher/assets/css/style-switcher.css
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:32:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site/index
+---
+2015/06/08 02:32:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 02:32:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in /var/www/countystatistics/framework/web/CWebApplication.php:286
+Stack trace:
+#0 /var/www/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 /var/www/countystatistics/framework/base/CApplication.php(184): CWebApplication->processRequest()
+#2 /var/www/countystatistics/index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
