@@ -8,7 +8,7 @@ return array(
 	'connectionString' => 'mysql:host=localhost;dbname=counties',
 	'emulatePrepare' => true,
 	'username' => 'root',
-	'password' => 'wekesa',
+	'password' => '',
 	'charset' => 'utf8',
 
 );
