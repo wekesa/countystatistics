@@ -48,7 +48,7 @@
 <div class="col-md-9">
 <div class="top-bar-right">
 <!-- responsive menu bar icon -->
-<a href="index.html#" class="hidden-md hidden-lg main-nav-toggle"><i class="fa fa-bars"></i></a>
+<a href="#" class="hidden-md hidden-lg main-nav-toggle"><i class="fa fa-bars"></i></a>
 <!-- end responsive menu bar icon -->
 <button type="button" id="global-volume" class="btn btn-link btn-global-volume"><i class="fa"></i></button>
 <!-- logged user and the menu -->
