@@ -48,31 +48,31 @@
 <div class="col-md-9">
 <div class="top-bar-right">
 <!-- responsive menu bar icon -->
-<a href="index.html#" class="hidden-md hidden-lg main-nav-toggle"><i class="fa fa-bars"></i></a>
+<a href="#" class="hidden-md hidden-lg main-nav-toggle"><i class="fa fa-bars"></i></a>
 <!-- end responsive menu bar icon -->
 <button type="button" id="global-volume" class="btn btn-link btn-global-volume"><i class="fa"></i></button>
 <!-- logged user and the menu -->
 <div class="logged-user">
 	<div class="btn-group">
-		<a href="index.html#" class="btn btn-link dropdown-toggle" data-toggle="dropdown">
-			<img src="<?php echo Yii::app()->request->baseUrl; ?>/assets/img/user-avatar.png" alt="User Avatar" />
+		<a href="#" class="btn btn-link dropdown-toggle" data-toggle="dropdown">
+<!--			<img src="--><?php //echo Yii::app()->request->baseUrl; ?><!--/assets/img/user-avatar.png" alt="User Avatar" />-->
 			<span class="name">User</span> <span class="caret"></span>
 		</a>
 		<ul class="dropdown-menu" role="menu">
 			<li>
-				<a href="index.html#">
+				<a href="#">
 					<i class="fa fa-user"></i>
 					<span class="text">Profile</span>
 				</a>
 			</li>
 			<li>
-				<a href="index.html#">
+				<a href="#">
 					<i class="fa fa-cog"></i>
 					<span class="text">Settings</span>
 				</a>
 			</li>
 			<li>
-				<a href="index.html#">
+				<a href="#">
 					<i class="fa fa-power-off"></i>
 					<span class="text">Logout</span>
 				</a>
@@ -102,7 +102,7 @@
 	<!-- main-nav -->
 	<nav class="main-nav">
 		<ul class="main-menu">
-            <li  class="active"><a href="#"><i class="fa fa-dashboard fa-fw"></i><span class="text">Dashboard</span></a></li>
+            <li  class="active"><a href="<?php echo Yii::app()->createAbsoluteUrl('site'); ?>#"><i class="fa fa-dashboard fa-fw"></i><span class="text">Dashboard</span></a></li>
 
 
             <li>
@@ -111,9 +111,9 @@
 					<i class="toggle-icon fa fa-angle-left"></i>
 				</a>
 				<ul class="sub-menu ">
-					<li><a href="#"><span class="text">Tabular Data</span></a></li>
-					<li><a href="#"><span class="text">Realtime charts representation</span></a></li>
-					<li><a href="#"><span class="text">Maps representation</span></a></li>
+					<li><a href="<?php echo Yii::app()->createAbsoluteUrl('malaria'); ?>"><span class="text">Tabular Data</span></a></li>
+					<li><a href="<?php echo Yii::app()->createAbsoluteUrl('malaria/chart'); ?>"><span class="text">Realtime charts representation</span></a></li>
+					<li><a href="#"><span class="text">Map representation</span></a></li>
 				</ul>
 			</li>
             <li>
@@ -122,13 +122,13 @@
                     <i class="toggle-icon fa fa-angle-left"></i>
                 </a>
                 <ul class="sub-menu ">
-                    <li><a href="#"><span class="text">Tabular Data</span></a></li>
-                    <li><a href="#"><span class="text">Realtime charts representation</span></a></li>
-                    <li><a href="#"><span class="text">Maps representation</span></a></li>
+                    <li><a href="<?php echo Yii::app()->createAbsoluteUrl('tuberculosis'); ?>"><span class="text">Tabular Data</span></a></li>
+                    <li><a href="<?php echo Yii::app()->createAbsoluteUrl('tuberculosis/tuberchart'); ?>"><span class="text">Realtime charts representation</span></a></li>
+                    <li><a href="#"><span class="text">Map representation</span></a></li>
                 </ul>
             </li>
-			<li><a href="#"><i class="fa fa-font fa-fw"></i><span class="text">Help</span></a></li>
-            <li><a href="#"><i class="fa fa-font fa-fw"></i><span class="text">About</span></a></li>
+			<li><a href="<?php echo Yii::app()->createAbsoluteUrl('site/help'); ?>"><i class="fa fa-font fa-eye"></i><span class="text">Help</span></a></li>
+            <li><a href="<?php echo Yii::app()->createAbsoluteUrl('site/about'); ?>"><i class="fa fa-font fa-fw"></i><span class="text">About</span></a></li>
 
 
         </ul>
@@ -146,7 +146,7 @@
 <div class="row">
 	<div class="col-md-4 ">
 		<ul class="breadcrumb">
-			<li><i class="fa fa-home"></i><a href="index.html#">Home</a></li>
+			<li><i class="fa fa-home"></i><a href="<?php echo Yii::app()->createAbsoluteUrl('site'); ?>">Home</a></li>
 			<li class="active">Dashboard</li>
 		</ul>
 	</div>
@@ -154,23 +154,24 @@
 		<div class="top-content">
 			<ul class="list-inline mini-stat">
 				<li>
-					<h5>LIKES <span class="stat-value stat-color-orange"><i class="fa fa-plus-circle"></i> 81,450</span></h5>
+					<h5>COUNTIES <span class="stat-value stat-color-orange"><i class="fa fa-plus-circle"></i> 47</span></h5>
 					<span id="mini-bar-chart1" class="mini-bar-chart"></span>
 				</li>
 				<li>
-					<h5>SUBSCRIBERS <span class="stat-value stat-color-blue"><i class="fa fa-plus-circle"></i> 150,743</span></h5>
+					<h5>AVERAGE POPULATION <span class="stat-value stat-color-blue"><i class="fa fa-plus-circle"></i> 9,150,743</span></h5>
 					<span id="mini-bar-chart2" class="mini-bar-chart"></span>
 				</li>
 				<li>
-					<h5>CUSTOMERS <span class="stat-value stat-color-seagreen"><i class="fa fa-plus-circle"></i> 43,748</span></h5>
+					<h5>AFFECTED NUMBER <span class="stat-value stat-color-seagreen"><i class="fa fa-plus-circle"></i> 643,748</span></h5>
 					<span id="mini-bar-chart3" class="mini-bar-chart"></span>
 				</li>
 			</ul>
 		</div>
 	</div>
 </div>
+	<div class="content">
     <?php echo $content; ?>
-
+</div>
 </div>
 	<!-- /main -->
 </div>
@@ -187,7 +188,6 @@
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/plugins/modernizr/modernizr.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/plugins/bootstrap-tour/bootstrap-tour.custom.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/king-common.js"></script>
-<script src="<?php echo Yii::app()->request->baseUrl; ?>/demo-style-switcher/assets/js/deliswitch.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/plugins/stat/jquery.easypiechart.min.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/plugins/raphael/raphael-2.1.0.min.js"></script>
 <script src="<?php echo Yii::app()->request->baseUrl; ?>/assets/js/plugins/stat/flot/jquery.flot.min.js"></script>
