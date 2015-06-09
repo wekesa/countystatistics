@@ -8,7 +8,7 @@ class TuberculosisController extends Controller
 	}
 
 	/*function to render tuberculosis chart view*/
-	public function actionTubercharts()
+	public function actionTuberchart()
 	{
 		$this->render('tuberchart');
 	}
