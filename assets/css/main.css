@@ -17281,6 +17281,7 @@ input {
 .top-bar {
   padding: 5px 0;
   background-color: #555;
+    height:50px;
 }
 /* line 9, ../../sass/partials/_top-bar.scss */
 .top-bar .logo {

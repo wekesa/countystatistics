@@ -1153,6 +1153,7 @@ Stack trace:
 REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
 HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
 ---
+<<<<<<< HEAD
 2015/06/08 07:58:43 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in /var/www/html/countystatistics/framework/web/CWebApplication.php:286
 Stack trace:
 #0 /var/www/html/countystatistics/framework/web/CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
@@ -1358,4 +1359,2396 @@ Stack trace:
 #3 {main}
 REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
 HTTP_REFERER=http://54.186.161.132/countystatistics/assets/css/main.css
+=======
+2015/06/08 07:43:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 07:43:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 07:43:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:43:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:44:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('index.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/index.html
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 07:44:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/index.html
+---
+2015/06/08 07:44:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:44:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:44:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "widgets.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('widgets.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/widgets.html
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 07:44:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/widgets.html
+---
+2015/06/08 07:44:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:44:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:45:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 07:45:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:45:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:45:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('index.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/index.html
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 07:45:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/index.html
+---
+2015/06/08 07:45:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:45:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:45:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:45:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 07:45:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/site
+---
+2015/06/08 07:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:45:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:46:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "widgets.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('widgets.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/widgets.html
+HTTP_REFERER=http://localhost/countystatistics/site
+---
+2015/06/08 07:46:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/widgets.html
+---
+2015/06/08 07:46:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:46:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:46:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "widgets.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('widgets.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/widgets.html
+HTTP_REFERER=http://localhost/countystatistics/widgets.html
+---
+2015/06/08 07:46:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/widgets.html
+---
+2015/06/08 07:46:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:46:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:46:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "widgets.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('widgets.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/widgets.html
+HTTP_REFERER=http://localhost/countystatistics/widgets.html
+---
+2015/06/08 07:46:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/widgets.html
+---
+2015/06/08 07:46:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:46:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:46:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "widgets.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('widgets.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/widgets.html
+HTTP_REFERER=http://localhost/countystatistics/widgets.html
+---
+2015/06/08 07:46:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/widgets.html
+---
+2015/06/08 07:46:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 07:46:11 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 09:29:24 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 09:29:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "charts-statistics.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('charts-statisti...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/charts-statistics.html
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 09:29:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/charts-statistics.html
+---
+2015/06/08 09:29:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 09:29:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:12:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 15:12:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:12:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 15:12:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:19:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/Prevalance
+---
+2015/06/08 15:19:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:19:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 15:19:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:19:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/prevalance
+---
+2015/06/08 15:19:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:19:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:20:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/prevalance
+---
+2015/06/08 15:20:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:20:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:26:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/prevalance
+---
+2015/06/08 15:26:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:26:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:30:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:30:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/prevalance
+---
+2015/06/08 15:30:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:40:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 15:40:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:40:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:41:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/js/jquery/jquery.min.map".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/js/jquer...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/js/jquery/jquery.min.map
+---
+2015/06/08 15:50:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 15:50:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:50:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:54:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('index.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/index.html
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 15:54:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/index.html
+---
+2015/06/08 15:54:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:54:25 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:55:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/js/jquery/jquery.min.map".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/js/jquer...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/js/jquery/jquery.min.map
+---
+2015/06/08 15:56:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 15:56:55 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:56:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/js/jquery/jquery.min.map".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/js/jquer...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/js/jquery/jquery.min.map
+---
+2015/06/08 15:56:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:57:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 15:57:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:57:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:57:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/js/jquery/jquery.min.map".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/js/jquer...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/js/jquery/jquery.min.map
+---
+2015/06/08 15:57:48 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 15:57:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 15:57:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/js/jquery/jquery.min.map".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/js/jquer...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/js/jquery/jquery.min.map
+---
+2015/06/08 15:57:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:57:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:59:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 15:59:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 15:59:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 15:59:26 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:00:49 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/
+---
+2015/06/08 16:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 16:00:50 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:01:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/Malaria
+---
+2015/06/08 16:01:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:01:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/08 16:01:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:01:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:01:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:01:16 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:07:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:07:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:07:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:07:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:07:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:08:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:08:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.eot".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.eot?&1383488388
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:08:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.eot".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.eot?
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:08:41 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.eot".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.eot?&1384273632
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:08:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:08:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:08:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:08:42 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:17:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:21:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:21:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:21:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:21:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:21:28 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:25:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:25:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:25:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:25:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:25:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:27:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:30:44 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:35:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:35:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:35:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:35:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:35:30 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "demo-style-switcher/assets/js/deliswitch.js".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('demo-style-swit...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/demo-style-switcher/assets/js/deliswitch.js
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/08 16:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/08 16:45:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:53:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/09 06:53:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:53:46 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:54:02 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:54:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:54:22 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:55:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "chart".' in C:\xampp\htdocs\countystatistics\framework\web\CController.php:483
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CController.php(270): CController->missingAction('chart')
+#1 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(282): CController->run('chart')
+#2 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('malaria/chart')
+#3 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#4 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/countystatistics/malaria/chart
+HTTP_REFERER=http://localhost/countystatistics/site
+---
+2015/06/09 06:55:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:55:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 06:55:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 08:13:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 08:13:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/09 08:13:03 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 08:33:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 08:33:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 08:33:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 08:33:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:46:18 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:46:19 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:51:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:51:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:51:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:51:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:51:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:51:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:51:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 10:51:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/09 11:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:00:53 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:34 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:35 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:39 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('index.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/index.html
+HTTP_REFERER=http://localhost/countystatistics/site
+---
+2015/06/09 11:08:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 11:08:52 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/fontawesome-webfont.woff2".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/fo...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/fontawesome-webfont.woff2?v=4.3.0
+HTTP_REFERER=http://localhost/countystatistics/assets/css/font-awesome.min.css
+---
+2015/06/09 12:47:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:23 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:47:56 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:48:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "index.html".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('index.html')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/index.html
+HTTP_REFERER=http://localhost/countystatistics/malaria
+---
+2015/06/09 12:48:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:48:29 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:51:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:51:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:51:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:51:47 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:59:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 12:59:32 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 13:47:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 13:47:27 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 13:48:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 13:48:31 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 13:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 13:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 13:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 13:48:37 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:08:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:08:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:08:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:08:13 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:10 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:12 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:09:21 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:10:08 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:10:09 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:10:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.woff?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:10:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.woff".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.woff?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:10:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-lig-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-lig-webfont.ttf?1383488388
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+---
+2015/06/09 14:10:20 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'Unable to resolve the request "assets/fonts/lato-bol-webfont.ttf".' in C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php:286
+Stack trace:
+#0 C:\xampp\htdocs\countystatistics\framework\web\CWebApplication.php(141): CWebApplication->runController('assets/fonts/la...')
+#1 C:\xampp\htdocs\countystatistics\framework\base\CApplication.php(184): CWebApplication->processRequest()
+#2 C:\xampp\htdocs\countystatistics\index.php(13): CApplication->run()
+#3 {main}
+REQUEST_URI=/countystatistics/assets/fonts/lato-bol-webfont.ttf?1384273632
+HTTP_REFERER=http://localhost/countystatistics/assets/css/main.css
+>>>>>>> 0ab30f78b021e387b8d1f8a804ef66694bf35f42
 ---
