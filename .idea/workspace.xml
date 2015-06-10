@@ -2,12 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71bce39d-d70a-4ce2-8381-fe070951419d" name="Default" comment="">
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-colorpicker\bootstrap-colorpicker.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-contextmenu\bootstrap-contextmenu.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-datepicker\bootstrap-datepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-editable\address.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-editable\bootstrap-editable.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-editable\demo-mock.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-editable\jquery.mockjax.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-multiselect\bootstrap-multiselect.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-progressbar\bootstrap-progressbar.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-progressbar\bootstrap-progressbar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-slider\bootstrap-slider.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-switch\bootstrap-switch.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-tagsinput\bootstrap-tagsinput.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-touchspin\jquery.bootstrap-touchspin.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\bootstrap-tour\bootstrap-tour.custom.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\datatable\dataTables.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\datatable\exts\dataTables.colReorder.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\datatable\exts\dataTables.colVis.bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\datatable\exts\dataTables.tableTools.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\datatable\jquery.dataTables.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\datatable\plugins\sorting\date-uk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\datatable\plugins\sorting\file-size.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\datatable\plugins\type-detection\date-uk.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\datatable\plugins\type-detection\file-size.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\daterangepicker\daterangepicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\dropzone\dropzone.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\fullcalendar\fullcalendar.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\google-map\google-map.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jqallrangesliders\jQAllRangeSliders-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jqgrid\i18n\grid.locale-en.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jqgrid\jquery.jqGrid.fluid.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jqgrid\jquery.jqGrid.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jquery-gritter\jquery.gritter.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jquery-mapael\jquery.mapael.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jquery-maskedinput\jquery.masked-input.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jquery-mousewheel\jquery.mousewheel.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jquery-simplecolorpicker\jquery.simplecolorpicker.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jquery-slimscroll\jquery.slimscroll.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\jquery-sparkline\jquery.sparkline.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\markdown\bootstrap-markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\markdown\markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\markdown\to-markdown.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\modernizr\modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\moment\moment.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\parsley-validation\parsley.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\raphael\maps\france_departments.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\raphael\maps\usa_states.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\raphael\maps\world_countries.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\raphael\raphael-2.1.0.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\raphael\raphael-min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\select2\select2.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\colorbrewer.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\d3.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\flot\jquery.flot.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\flot\jquery.flot.orderBars.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\flot\jquery.flot.pie.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\flot\jquery.flot.resize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\flot\jquery.flot.selection.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\flot\jquery.flot.time.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\flot\jquery.flot.tooltip.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\stat\jquery.easypiechart.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\summernote\summernote.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\tree\jstree.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\tree\themes\default\32px.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\tree\themes\default\40px.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\tree\themes\default\throbber.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\typeahead\typeahead.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\typeahead\typeaheadjs.1.5.1.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\xampp\htdocs\countystatistics\assets\js\plugins\wizard\wizard.min.js" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/about.php" afterPath="$PROJECT_DIR$/protected/views/site/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/application.log" afterPath="$PROJECT_DIR$/protected/runtime/application.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/malaria/chart.php" afterPath="$PROJECT_DIR$/protected/views/malaria/chart.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/help.php" afterPath="$PROJECT_DIR$/protected/views/site/help.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/tuberculosis/map.php" afterPath="$PROJECT_DIR$/protected/views/tuberculosis/map.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php" afterPath="$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="countystatistics.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,94 +102,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="chart.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="chart.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/malaria/chart.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="4" selection-start="1117" selection-end="1154" vertical-scroll-proportion="-18.541666" vertical-offset="110" max-vertical-offset="675">
+            <state vertical-scroll-proportion="-13.730769" vertical-offset="102" max-vertical-offset="765">
+              <caret line="27" column="87" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/views/malaria/map.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="38" selection-start="352" selection-end="352" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="345">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="117" column="17" selection-start="4198" selection-end="4198" vertical-scroll-proportion="-0.16666667" vertical-offset="1751" max-vertical-offset="3225">
+            <state vertical-scroll-proportion="31.384615" vertical-offset="2805" max-vertical-offset="3655">
+              <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="map.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="map.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/map.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+            <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
+      <file leaf-file-name="tuberchart.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="4" selection-start="59" selection-end="59" vertical-scroll-proportion="-0.5882353" vertical-offset="0" max-vertical-offset="180">
+            <state vertical-scroll-proportion="-15.692307" vertical-offset="51" max-vertical-offset="697">
+              <caret line="27" column="73" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.flot.min.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/plugins/stat/flot/jquery.flot.min.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.5696649" vertical-offset="0" max-vertical-offset="567">
+              <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="238">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SiteController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="2091">
+              <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
               <folding>
-                <element signature="tag#div#0;tag#div#0" expanded="false" />
-                <element signature="tag#div#1;tag#div#0" expanded="false" />
+                <marker date="1433911232843" expanded="true" signature="46:2800" placeholder="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tuberchart.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="14" selection-start="1108" selection-end="1108" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="615">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SiteController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="5" selection-start="2769" selection-end="2769" vertical-scroll-proportion="-21.416666" vertical-offset="1196" max-vertical-offset="1845">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/site/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="29" selection-start="189" selection-end="189" vertical-scroll-proportion="54.875" vertical-offset="1452" max-vertical-offset="2010">
+            <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="578">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="help.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="help.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/site/help.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="10" selection-start="5901" selection-end="5901" vertical-scroll-proportion="0.85365856" vertical-offset="1060" max-vertical-offset="1500">
+            <state vertical-scroll-proportion="-37.923077" vertical-offset="0" max-vertical-offset="1156">
+              <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.htaccess">
+      <file leaf-file-name="counties.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sql/counties.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+            <state vertical-scroll-proportion="-3.06" vertical-offset="0" max-vertical-offset="2091">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -139,21 +223,23 @@
         <option value="$PROJECT_DIR$/protected/controllers/MalariaController.php" />
         <option value="$PROJECT_DIR$/protected/views/malaria/map.php" />
         <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
-        <option value="$PROJECT_DIR$/protected/views/malaria/chart.php" />
         <option value="$PROJECT_DIR$/protected/controllers/TuberculosisController.php" />
-        <option value="$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php" />
         <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
         <option value="$PROJECT_DIR$/protected/views/tuberculosis/map.php" />
-        <option value="$PROJECT_DIR$/protected/views/site/about.php" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/protected/views/malaria/chart.php" />
+        <option value="$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php" />
         <option value="$PROJECT_DIR$/protected/views/site/help.php" />
+        <option value="$PROJECT_DIR$/protected/views/site/about.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-2" />
-    <option name="width" value="1370" />
-    <option name="height" value="770" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1616" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -169,7 +255,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -210,6 +296,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="sql" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="countystatistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="countystatistics" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="protected" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -229,10 +329,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tuberculosis" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,86 +354,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countystatistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countystatistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countystatistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countystatistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="malaria" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countystatistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countystatistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countystatistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="countystatistics" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="protected" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -348,6 +364,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\countystatistics\sql" />
+      <recent name="C:\xampp\htdocs\countystatistics\assets\js" />
       <recent name="$PROJECT_DIR$/protected/views/tuberculosis" />
     </key>
   </component>
@@ -359,7 +377,14 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
@@ -372,32 +397,34 @@
     <task active="true" id="Default" summary="Default task">
       <changelist id="71bce39d-d70a-4ce2-8381-fe070951419d" name="Default" comment="" />
       <created>1433785752996</created>
+      <option name="number" value="Default" />
       <updated>1433785752996</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2" y="0" width="1370" height="770" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="916" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2392638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22547771" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18759455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1722365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -405,6 +432,9 @@
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -418,237 +448,339 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="58" selection-start="4880" selection-end="4880" vertical-scroll-proportion="0.0" vertical-offset="1890" max-vertical-offset="3225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="40" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/malaria/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="106" column="27" selection-start="3015" selection-end="3015" vertical-scroll-proportion="0.0" vertical-offset="1386" max-vertical-offset="1965">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding>
-            <element signature="tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="181" column="19" selection-start="6676" selection-end="6676" vertical-scroll-proportion="0.0" vertical-offset="2689" max-vertical-offset="3225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="40" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
-          <folding>
-            <element signature="tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="622">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="40" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="870">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/malaria/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="295" column="18" selection-start="7930" selection-end="7930" vertical-scroll-proportion="-8.166667" vertical-offset="4229" max-vertical-offset="4755">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="4" selection-start="59" selection-end="59" vertical-scroll-proportion="-0.5882353" vertical-offset="0" max-vertical-offset="180">
-          <folding>
-            <element signature="tag#div#0;tag#div#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="31" selection-start="304" selection-end="304" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/malaria/map.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="38" selection-start="352" selection-end="352" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="345">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/malaria/chart.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="4" selection-start="1117" selection-end="1154" vertical-scroll-proportion="-18.541666" vertical-offset="110" max-vertical-offset="675">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="36" selection-start="202" selection-end="202" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="5" selection-start="2769" selection-end="2769" vertical-scroll-proportion="-21.416666" vertical-offset="1196" max-vertical-offset="1845">
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="204">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="117" column="17" selection-start="4198" selection-end="4198" vertical-scroll-proportion="-0.16666667" vertical-offset="1751" max-vertical-offset="3225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="14" selection-start="1108" selection-end="1108" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="615">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="3655">
+          <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/map.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+        <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="459">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="323">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="102">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1836" max-vertical-offset="1938">
+          <caret line="108" column="1" selection-start-line="108" selection-start-column="1" selection-end-line="108" selection-end-column="1" />
+          <folding>
+            <marker date="1433911232843" expanded="true" signature="46:2800" placeholder="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/site/about.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="29" selection-start="189" selection-end="189" vertical-scroll-proportion="54.875" vertical-offset="1452" max-vertical-offset="2010">
+        <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="2278">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/site/help.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="10" selection-start="5901" selection-end="5901" vertical-scroll-proportion="0.85365856" vertical-offset="1060" max-vertical-offset="1500">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1700">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="221">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1890" max-vertical-offset="3225">
+          <caret line="126" column="58" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
+          <caret line="12" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="870">
+          <caret line="1" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/malaria/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1386" max-vertical-offset="1965">
+          <caret line="106" column="27" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2689" max-vertical-offset="3225">
+          <caret line="181" column="19" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
+          <caret line="12" column="33" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15" max-vertical-offset="870">
+          <caret line="1" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="622">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="870">
+          <caret line="1" column="40" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/malaria/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.166667" vertical-offset="4229" max-vertical-offset="4755">
+          <caret line="295" column="18" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="4471">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="330">
+          <caret line="12" column="31" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="300">
+          <caret line="10" column="36" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1989" max-vertical-offset="2091">
+          <caret line="117" column="1" selection-start-line="117" selection-start-column="1" selection-end-line="117" selection-end-column="1" />
+          <folding>
+            <marker date="1433911232843" expanded="true" signature="46:2800" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="31.384615" vertical-offset="2805" max-vertical-offset="3655">
+          <caret line="117" column="17" selection-start-line="117" selection-start-column="17" selection-end-line="117" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769" vertical-offset="0" max-vertical-offset="459">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.44" vertical-offset="0" max-vertical-offset="238">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/malaria/chart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.730769" vertical-offset="102" max-vertical-offset="765">
+          <caret line="27" column="87" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.692307" vertical-offset="51" max-vertical-offset="697">
+          <caret line="27" column="73" selection-start-line="27" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/help.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-37.923077" vertical-offset="0" max-vertical-offset="1156">
+          <caret line="58" column="18" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sql/counties.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.06" vertical-offset="0" max-vertical-offset="2091">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769" vertical-offset="0" max-vertical-offset="578">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/plugins/stat/flot/jquery.flot.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5696649" vertical-offset="0" max-vertical-offset="567">
+          <caret line="24" column="2" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
           <folding />
         </state>
       </provider>

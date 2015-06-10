@@ -13,7 +13,7 @@
 						<h3><i class="fa fa-bar-chart-o"></i> Flot Chart: Vertical Bar Chart</h3> <em> - side-by-side bar chart</em>
 					</div>
 					<div class="widget-content">
-						<div class="demo-flot-chart" id="demo-vertical-bar-chart" data-ctype="#week"></div>
+<!--						<div class="demo-flot-chart" id="demo-vertical-bar-chart" data-ctype="#week"></div>-->
 					</div>
 				</div>
 				<!-- END WIDGET VERTICAL BAR CHART  -->
@@ -25,7 +25,7 @@
 						<h3><i class="fa fa-bar-chart-o"></i> Flot Chart: Horizontal Bar Chart</h3> <em> - horizontal version</em>
 					</div>
 					<div class="widget-content">
-						<div class="demo-flot-chart" id="demo-horizontal-bar-chart"></div>
+<!--						<div class="demo-flot-chart" id="demo-horizontal-bar-chart"></div>-->
 					</div>
 				</div>
 				<!-- END WIDGET HORIZONTAL BAR CHART  -->
