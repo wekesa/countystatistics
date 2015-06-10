@@ -2,142 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="71bce39d-d70a-4ce2-8381-fe070951419d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/ajax-loader.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/rating/delete.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_close.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_loading.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_nav_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_nav_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_shadow_e.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_shadow_n.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_shadow_ne.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_shadow_nw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_shadow_s.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_shadow_se.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_shadow_sw.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_shadow_w.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_title_left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_title_main.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_title_over.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancy_title_right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancybox-x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancybox-y.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/fancybox.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/file.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/folder-closed.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/folder.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/autocomplete/indicator.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/minus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/plus.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/rating/star.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-black-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-black.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-default-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-default.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-famfamfam-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-famfamfam.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-gray-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-gray.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-red-line.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/images/treeview-red.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-bg_flat_0_aaaaaa_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-bg_flat_75_ffffff_40x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-bg_glass_55_fbf9ee_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-bg_glass_65_ffffff_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-bg_glass_75_dadada_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-bg_glass_75_e6e6e6_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-bg_glass_95_fef1ec_1x400.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-icons_222222_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-icons_2e83ff_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-icons_454545_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-icons_888888_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/images/ui-icons_cd0a0a_256x240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/runtime/gii-1.1.16/ControllerCode.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/controllers/MalariaController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/controllers/PrevalanceController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/controllers/TuberculosisController.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/malaria/chart.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/css/ie.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/malaria/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/prevalance/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/tuberculosis/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/js/jquery-ui-i18n.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/css/base/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jui/js/jquery-ui.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.ajaxqueue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/autocomplete/jquery.autocomplete.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.autocomplete.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.ba-bbq.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.ba-bbq.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.bgiframe.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/jquery.fancybox-1.3.1.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/fancybox/jquery.fancybox-1.3.1.pack.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.history.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.maskedinput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.maskedinput.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.metadata.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.multifile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/rating/jquery.rating.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.rating.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.treeview.async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/treeview/jquery.treeview.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.treeview.edit.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.treeview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.yii.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.yiiactiveform.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/yiitab/jquery.yiitab.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/jquery.yiitab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/css/print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/punycode.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/9e135e84/punycode.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/css/screen.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/a5f23149/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot?" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.eot?v=4.3.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.svg?v=4.3.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.ttf?v=4.3.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff2?v=4.3.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/fontawesome-webfont.woff?v=4.3.0" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot?" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-bol-webfont.eot?&amp;1384273632" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-bol-webfont.eot?1384273632" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-bol-webfont.svg?1384273632" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-bol-webfont.ttf?1384273632" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-bol-webfont.woff?1384273632" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-lig-webfont.eot?&amp;1383488388" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-lig-webfont.eot?1383488388" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-lig-webfont.svg?1383488388" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-lig-webfont.ttf?1383488388" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-lig-webfont.woff?1383488388" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-reg-webfont.eot?&amp;1386010378" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-reg-webfont.eot?1386010378" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-reg-webfont.svg?1386010378" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-reg-webfont.ttf?1386010378" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/fonts/lato-reg-webfont.woff?1386010378" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bootstrap-colorpicker/alpha-horizontal.png?1385667212" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bootstrap-colorpicker/alpha.png?1385667212" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bootstrap-colorpicker/hue-horizontal.png?1385667212" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bootstrap-colorpicker/hue.png?1385667212" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/bootstrap-colorpicker/saturation.png?1385667212" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/diagonal-stripe.png?1369651034" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/ie-spacer.gif?1379032210" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/img/select2-spinner.gif?1398901838" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/runtime/application.log" afterPath="$PROJECT_DIR$/protected/runtime/application.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/config/database.php" afterPath="$PROJECT_DIR$/protected/config/database.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/index.php" afterPath="$PROJECT_DIR$/protected/views/site/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="$PROJECT_DIR$/assets/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/config/main.php" afterPath="$PROJECT_DIR$/protected/config/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/layouts/main.php" afterPath="$PROJECT_DIR$/protected/views/layouts/main.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/about.php" afterPath="$PROJECT_DIR$/protected/views/site/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/site/help.php" afterPath="$PROJECT_DIR$/protected/views/site/help.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protected/views/tuberculosis/map.php" afterPath="$PROJECT_DIR$/protected/views/tuberculosis/map.php" />
     </list>
     <ignored path="countystatistics.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -160,19 +27,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+      <file leaf-file-name="chart.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/malaria/chart.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="37" column="4" selection-start="1117" selection-end="1154" vertical-scroll-proportion="-18.541666" vertical-offset="110" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MalariaController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
+      <file leaf-file-name="map.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/malaria/map.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="10" column="38" selection-start="352" selection-end="352" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="345">
               <folding />
             </state>
           </provider>
@@ -181,34 +48,16 @@
       <file leaf-file-name="main.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="126" column="58" selection-start="4880" selection-end="4880" vertical-scroll-proportion="-78.75" vertical-offset="0" max-vertical-offset="3225">
+            <state line="117" column="17" selection-start="4198" selection-end="4198" vertical-scroll-proportion="-0.16666667" vertical-offset="1751" max-vertical-offset="3225">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TuberculosisController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
+      <file leaf-file-name="map.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/map.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1" column="40" selection-start="63" selection-end="63" vertical-scroll-proportion="4.3333335" vertical-offset="119" max-vertical-offset="870">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/protected/views/malaria/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="118" column="22" selection-start="3300" selection-end="3300" vertical-scroll-proportion="0.8951049" vertical-offset="1386" max-vertical-offset="1965">
+            <state line="21" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
               <folding />
             </state>
           </provider>
@@ -217,9 +66,10 @@
       <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+            <state line="2" column="4" selection-start="59" selection-end="59" vertical-scroll-proportion="-0.5882353" vertical-offset="0" max-vertical-offset="180">
               <folding>
-                <marker date="1433783927583" expanded="true" signature="159:262" placeholder="..." />
+                <element signature="tag#div#0;tag#div#0" expanded="false" />
+                <element signature="tag#div#1;tag#div#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -228,7 +78,34 @@
       <file leaf-file-name="tuberchart.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+            <state line="32" column="14" selection-start="1108" selection-end="1108" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SiteController.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="114" column="5" selection-start="2769" selection-end="2769" vertical-scroll-proportion="-21.416666" vertical-offset="1196" max-vertical-offset="1845">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/protected/views/site/about.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="29" selection-start="189" selection-end="189" vertical-scroll-proportion="54.875" vertical-offset="1452" max-vertical-offset="2010">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="help.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/protected/views/site/help.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="94" column="10" selection-start="5901" selection-end="5901" vertical-scroll-proportion="0.85365856" vertical-offset="1060" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
@@ -256,21 +133,27 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
+        <option value="$PROJECT_DIR$/protected/views/site/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/malaria/index.php" />
+        <option value="$PROJECT_DIR$/protected/views/tuberculosis/index.php" />
         <option value="$PROJECT_DIR$/protected/controllers/MalariaController.php" />
+        <option value="$PROJECT_DIR$/protected/views/malaria/map.php" />
+        <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
+        <option value="$PROJECT_DIR$/protected/views/malaria/chart.php" />
         <option value="$PROJECT_DIR$/protected/controllers/TuberculosisController.php" />
         <option value="$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php" />
-        <option value="$PROJECT_DIR$/protected/views/site/index.php" />
-        <option value="$PROJECT_DIR$/protected/views/layouts/main.php" />
-        <option value="$PROJECT_DIR$/protected/views/malaria/index.php" />
+        <option value="$PROJECT_DIR$/protected/controllers/SiteController.php" />
+        <option value="$PROJECT_DIR$/protected/views/tuberculosis/map.php" />
+        <option value="$PROJECT_DIR$/protected/views/site/about.php" />
+        <option value="$PROJECT_DIR$/protected/views/site/help.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="72" />
-    <option name="y" value="25" />
-    <option name="width" value="510" />
-    <option name="height" value="743" />
+    <option name="x" value="-2" />
+    <option name="width" value="1370" />
+    <option name="height" value="770" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -279,7 +162,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -462,15 +345,11 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
-<<<<<<< HEAD
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/protected/views/tuberculosis" />
     </key>
-=======
->>>>>>> 85b4c3c42411a2890355d6d31b95fe4cc5e91ba6
   </component>
   <component name="RunManager">
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -489,9 +368,6 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="71bce39d-d70a-4ce2-8381-fe070951419d" name="Default" comment="" />
@@ -501,15 +377,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="72" y="25" width="510" height="743" extended-state="0" />
+    <frame x="-2" y="0" width="1370" height="770" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2392638" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24458875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18759455" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -517,11 +393,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="UnknownFeatures">
@@ -544,6 +420,72 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="126" column="58" selection-start="4880" selection-end="4880" vertical-scroll-proportion="0.0" vertical-offset="1890" max-vertical-offset="3225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="40" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/malaria/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="106" column="27" selection-start="3015" selection-end="3015" vertical-scroll-proportion="0.0" vertical-offset="1386" max-vertical-offset="1965">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
+          <folding>
+            <element signature="tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="7" selection-start="7" selection-end="7" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
@@ -583,7 +525,8 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="285">
           <folding>
-            <marker date="1433783927583" expanded="true" signature="159:262" placeholder="..." />
+            <element signature="tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -616,53 +559,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="33" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="300">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="622">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
-          <folding>
-            <marker date="1433783927583" expanded="true" signature="159:262" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="126" column="58" selection-start="4880" selection-end="4880" vertical-scroll-proportion="-78.75" vertical-offset="0" max-vertical-offset="3225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/site/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="40" selection-start="63" selection-end="63" vertical-scroll-proportion="4.3333335" vertical-offset="119" max-vertical-offset="870">
+        <state line="1" column="40" selection-start="63" selection-end="63" vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="870">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/protected/views/malaria/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="118" column="22" selection-start="3300" selection-end="3300" vertical-scroll-proportion="0.8951049" vertical-offset="1386" max-vertical-offset="1965">
+        <state line="295" column="18" selection-start="7930" selection-end="7930" vertical-scroll-proportion="-8.166667" vertical-offset="4229" max-vertical-offset="4755">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="4" selection-start="59" selection-end="59" vertical-scroll-proportion="-0.5882353" vertical-offset="0" max-vertical-offset="180">
+          <folding>
+            <element signature="tag#div#0;tag#div#0" expanded="false" />
+            <element signature="tag#div#1;tag#div#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/MalariaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="31" selection-start="304" selection-end="304" vertical-scroll-proportion="-7.5" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/malaria/map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="38" selection-start="352" selection-end="352" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="345">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/malaria/chart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="4" selection-start="1117" selection-end="1154" vertical-scroll-proportion="-18.541666" vertical-offset="110" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/TuberculosisController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="36" selection-start="202" selection-end="202" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="300">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/controllers/SiteController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="5" selection-start="2769" selection-end="2769" vertical-scroll-proportion="-21.416666" vertical-offset="1196" max-vertical-offset="1845">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/layouts/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="17" selection-start="4198" selection-end="4198" vertical-scroll-proportion="-0.16666667" vertical-offset="1751" max-vertical-offset="3225">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/tuberchart.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="14" selection-start="1108" selection-end="1108" vertical-scroll-proportion="-20.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/tuberculosis/map.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="518" selection-end="518" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="29" selection-start="189" selection-end="189" vertical-scroll-proportion="54.875" vertical-offset="1452" max-vertical-offset="2010">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protected/views/site/help.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="10" selection-start="5901" selection-end="5901" vertical-scroll-proportion="0.85365856" vertical-offset="1060" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>

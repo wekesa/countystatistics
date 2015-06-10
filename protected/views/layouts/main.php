@@ -38,7 +38,7 @@
 <!-- logo -->
 <div class="col-md-2 logo">
 	<a href=""><img src="<?php echo Yii::app()->request->baseUrl; ?>/assets/img/logo-white.png" alt="Counties Statistics" /></a>
-	<h1 class="sr-only">County Statistics Application</h1>
+	<h1 class="sr-only">Counties Statistical Analysis Application</h1>
 </div>
 <!-- end logo -->
 <div class="col-md-10">
@@ -112,7 +112,7 @@
 				</a>
 				<ul class="sub-menu ">
 					<li><a href="<?php echo Yii::app()->createAbsoluteUrl('malaria'); ?>"><span class="text">Tabular Data</span></a></li>
-					<li><a href="<?php echo Yii::app()->createAbsoluteUrl('malaria/chart'); ?>"><span class="text">Realtime charts representation</span></a></li>
+					<li><a href="<?php echo Yii::app()->createAbsoluteUrl('malaria/chart'); ?>"><span class="text">Charts representation</span></a></li>
 					<li><a href="#"><span class="text">Map representation</span></a></li>
 				</ul>
 			</li>
@@ -123,7 +123,7 @@
                 </a>
                 <ul class="sub-menu ">
                     <li><a href="<?php echo Yii::app()->createAbsoluteUrl('tuberculosis'); ?>"><span class="text">Tabular Data</span></a></li>
-                    <li><a href="<?php echo Yii::app()->createAbsoluteUrl('tuberculosis/tuberchart'); ?>"><span class="text">Realtime charts representation</span></a></li>
+                    <li><a href="<?php echo Yii::app()->createAbsoluteUrl('tuberculosis/tuberchart'); ?>"><span class="text">Charts representation</span></a></li>
                     <li><a href="#"><span class="text">Map representation</span></a></li>
                 </ul>
             </li>

@@ -8,7 +8,7 @@ class MalariaController extends Controller
 		$this->render('index');
 	}
     /* a function to display/render default malaria page*/
-    public function actionCharts()
+    public function actionChart()
     {
         $this->render('chart');
 
